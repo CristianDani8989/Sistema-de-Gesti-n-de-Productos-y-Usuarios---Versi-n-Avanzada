@@ -31,13 +31,4 @@ Incluye definición de tipos, clases, funciones, manejo de promesas, template li
   - `ordenarProductosPorPrecio()` → ordena productos asc/desc.  
   - `calcularValorInventario()` → calcula valor total del inventario.
 
----
 
-## 📂 Estructura del proyecto
-
-├─ src/
-│ └─ index.ts # Código principal en TypeScript
-├─ dist/
-│ └─ index.js # Código compilado en JavaScript (autogenerado)
-├─ package.json
-├─ tsconfig.json
